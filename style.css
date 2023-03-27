@@ -26,7 +26,7 @@ align-items: center;
 .left{
 
 }
-.right{
+ .right{
     
 }
 
@@ -55,6 +55,9 @@ align-items: center;
 
     
 }
+
+
+
 .playerStats{
     display: flex;
     justify-content: center;
